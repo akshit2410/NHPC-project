@@ -1,0 +1,18 @@
+hello ,this repo consists of project for NHPC admin panel.
+its just a zip file u have to download and install the required essentials for running this namely -:
+1)Xampp
+2)phpmyadmin
+3)mysql 
+
+After setting up Xampp ,mysql and phpmyadmin and
+make a database acc. to the following :
+
+database name :nhpcweb (your user is root)
+insid the database make to table:
+1) employee (empid,empame,doc,pwd,loc,deptid)
+2)articles (title, body, loc, deptid, startdate, enddate, empid)
+
+
+
+
+thank you after this you can run the site on local host and make further changes acc.to you.
